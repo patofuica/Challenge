@@ -50,8 +50,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 4. **Inicia la aplicación:**
    npm start
    Abre http://localhost:3000 en tu navegador para usar la aplicación.
+   
 
-# Uso 📦
+## Uso 📦
 Ingrese los nombres de los amigos en el campo proporcionado.
 Haga clic en "Añadir" para agregar cada amigo al sorteo.
 Cuando todos los amigos estén listos, haga clic en "Sortear amigo" para ver quién es el amigo secreto de cada uno.
